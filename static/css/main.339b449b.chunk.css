@@ -1,0 +1,2 @@
+.app{display:flex;justify-content:center;align-items:center;flex-direction:column}.tabs{border:1px solid #000}.tabs__list{padding:0;margin:0;height:200px;display:flex;list-style:none;position:relative}.tabs__tab_btn{border:none;border-bottom:1px solid #bcaf9c;background-color:transparent;transition:background-color .5s}.tabs__tab_btn:hover{background-color:#71686b}.tabs__tab_btn__selected{border-bottom:none}.tabs__selected-tab-content{position:absolute;left:0;margin:15px 0}
+/*# sourceMappingURL=main.339b449b.chunk.css.map */
